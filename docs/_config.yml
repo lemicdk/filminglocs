@@ -23,7 +23,7 @@ email: filminglocs@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is a backup site for filminglocs. It will host selected updates from filminglocs.blogspot.com
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://lemicdk.github.io/filminglocs" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  lemicdk
 
 # Build settings
