@@ -1,0 +1,149 @@
+---
+layout: post
+title:    Die Hard - With a Vengeance
+date:     2013-01-06 21:53:00  +0100
+categories: filminglocs update
+---
+<style>
+img {height: 180px;}
+h3 {padding-top: 10px}
+h2 {padding-top: 20px}
+.episode {padding-left: 20px}
+</style>
+<img src="https://upload.wikimedia.org/wikipedia/en/4/4c/Die_Hard_With_A_Vengance.jpg" style="height: 300px" /><br />
+Director: John McTiernan<br />
+Writers:  Jonathan Hensleigh, Roderick Thorp<br />
+Staring: Bruce Willis, Jeremy Irons and Samuel L. Jackson <br />
+Filming town: Primarily New York City, but also upstate New York.<br /><br />
+<a href="http://en.wikipedia.org/wiki/Die_Hard_with_a_Vengeance">Wikipedia</a><br />
+<a href="http://www.imdb.com/title/tt0112864/">IMDB</a><br />
+<a href="https://gec-people-cultures-a-googleproductforums-com.googlegroups.com/attach/d07853f989553c20/Die%20Hard%20With%20a%20Vengeance%20-%20Filming%09locations.kmz?gda=FS4EUEcAAABXFmJkXOmLkF9r3iXK7CMnOa2AFNniQz_QSswmzbPVYUMI6GH132rq-61ymK15IlIbQwFxJw55cVwemAxM-EWmeV4duv6pDMGhhhZdjQlNAw&part=3">KML file for Google Earth with all locations</a><br />
+<br />
+<h3>Wallstreet intro (Broadway and Wall St.)</h3>
+<a href="https://lemicdk.github.io/filminglocs/images/Die_Hard_With_a_Vengeance/Wallstreetintro-mv.jpg" imageanchor="1" ><img border="0" src="https://lemicdk.github.io/filminglocs/images/Die_Hard_With_a_Vengeance/Wallstreetintro-mv.jpg" /></a>
+<a href="https://lemicdk.github.io/filminglocs/images/Die_Hard_With_a_Vengeance/Wallstreetintro-ge.jpg" imageanchor="1"><img border="0" src="https://lemicdk.github.io/filminglocs/images/Die_Hard_With_a_Vengeance/Wallstreetintro-ge.jpg" /></a>
+<br />
+<h3>Grocery intro (Avenue A and St. Marks pl.)</h3>
+<a href="https://lemicdk.github.io/filminglocs/images/Die_Hard_With_a_Vengeance/Groceryintromv.jpg" imageanchor="1" ><img border="0" src="https://lemicdk.github.io/filminglocs/images/Die_Hard_With_a_Vengeance/Groceryintromv.jpg" /></a>
+<a href="https://lemicdk.github.io/filminglocs/images/Die_Hard_With_a_Vengeance/Groceryintroge.jpg" imageanchor="1"><img border="0" src="https://lemicdk.github.io/filminglocs/images/Die_Hard_With_a_Vengeance/Groceryintroge.jpg" /></a>
+<br />
+<h3>Diamonds intro</h3>
+<a href="https://lemicdk.github.io/filminglocs/images/Die_Hard_With_a_Vengeance/Diamondstoreintromv.jpg" imageanchor="1" ><img border="0" src="https://lemicdk.github.io/filminglocs/images/Die_Hard_With_a_Vengeance/Diamondstoreintromv.jpg" /></a>
+<a href="https://lemicdk.github.io/filminglocs/images/Die_Hard_With_a_Vengeance/Diamondstoreintroge.jpg" imageanchor="1"><img border="0" src="https://lemicdk.github.io/filminglocs/images/Die_Hard_With_a_Vengeance/Diamondstoreintroge.jpg" /></a>
+<br />
+<h3>Port Authority building intro (8th Ave and W 40th st.)</h3>
+<a href="https://lemicdk.github.io/filminglocs/images/Die_Hard_With_a_Vengeance/Metrointromv.jpg" imageanchor="1" ><img border="0" src="https://lemicdk.github.io/filminglocs/images/Die_Hard_With_a_Vengeance/Metrointromv.jpg" /></a>
+<a href="https://lemicdk.github.io/filminglocs/images/Die_Hard_With_a_Vengeance/Metrointroge.jpg" imageanchor="1"><img border="0" src="https://lemicdk.github.io/filminglocs/images/Die_Hard_With_a_Vengeance/Metrointroge.jpg" /></a>
+<br />
+<h3>Wallstreet intro 2 (Broadway and Rector st.)</h3>
+<a href="https://lemicdk.github.io/filminglocs/images/Die_Hard_With_a_Vengeance/Wallstreetintro2-mv.jpg" imageanchor="1" ><img border="0" src="https://lemicdk.github.io/filminglocs/images/Die_Hard_With_a_Vengeance/Wallstreetintro2-mv.jpg" /></a>
+<a href="https://lemicdk.github.io/filminglocs/images/Die_Hard_With_a_Vengeance/Wallstreetintro21-ge.jpg" imageanchor="1"><img border="0" src="https://lemicdk.github.io/filminglocs/images/Die_Hard_With_a_Vengeance/Wallstreetintro21-ge.jpg" /></a>
+<br />
+<h3>Bowit Teller department store (6th Ave. and W 20th St.)</h3>
+<a href="https://lemicdk.github.io/filminglocs/images/Die_Hard_With_a_Vengeance/BonwitTellerdepartmentstoremv.jpg" imageanchor="1" ><img border="0" src="https://lemicdk.github.io/filminglocs/images/Die_Hard_With_a_Vengeance/BonwitTellerdepartmentstoremv.jpg" /></a>
+<a href="https://lemicdk.github.io/filminglocs/images/Die_Hard_With_a_Vengeance/BonwitTellerdepartmentstorege.jpg" imageanchor="1"><img border="0" src="https://lemicdk.github.io/filminglocs/images/Die_Hard_With_a_Vengeance/BonwitTellerdepartmentstorege.jpg" /></a>
+<br />
+<h3>Bonwit Teller explosion (6th Ave. and W 23th St.)</h3>
+<a href="https://lemicdk.github.io/filminglocs/images/Die_Hard_With_a_Vengeance/BonwitTellerexplosion-mv.jpg" imageanchor="1" ><img border="0" src="https://lemicdk.github.io/filminglocs/images/Die_Hard_With_a_Vengeance/BonwitTellerexplosion-mv.jpg" /></a>
+<a href="https://lemicdk.github.io/filminglocs/images/Die_Hard_With_a_Vengeance/BonwitTellerexplosion-reversed-ge.jpg" imageanchor="1"><img border="0" src="https://lemicdk.github.io/filminglocs/images/Die_Hard_With_a_Vengeance/BonwitTellerexplosion-reversed-ge.jpg" /></a>
+<br />
+<h3>Police truck dropoff (Audubon Ave and W 176th st.)</h3>
+<a href="https://lemicdk.github.io/filminglocs/images/Die_Hard_With_a_Vengeance/Policetruckdropoff-mv.jpg" imageanchor="1" ><img border="0" src="https://lemicdk.github.io/filminglocs/images/Die_Hard_With_a_Vengeance/Policetruckdropoff-mv.jpg" /></a>
+<a href="https://lemicdk.github.io/filminglocs/images/Die_Hard_With_a_Vengeance/Policetruckdropoff-ge.jpg" imageanchor="1"><img border="0" src="https://lemicdk.github.io/filminglocs/images/Die_Hard_With_a_Vengeance/Policetruckdropoff-ge.jpg" /></a>
+<br />
+<h3>Sign scene (Audubon Ave and W 175th st.)</h3>
+<a href="https://lemicdk.github.io/filminglocs/images/Die_Hard_With_a_Vengeance/Signscene-mv.jpg" imageanchor="1" ><img border="0" src="https://lemicdk.github.io/filminglocs/images/Die_Hard_With_a_Vengeance/Signscene-mv.jpg" /></a>
+<a href="https://lemicdk.github.io/filminglocs/images/Die_Hard_With_a_Vengeance/Signscene-ge.jpg" imageanchor="1"><img border="0" src="https://lemicdk.github.io/filminglocs/images/Die_Hard_With_a_Vengeance/Signscene-ge.jpg" /></a>
+<br />
+<h3>"To police plaza" (Amstederdam ave. and W 135th st.)</h3>
+<a href="https://lemicdk.github.io/filminglocs/images/Die_Hard_With_a_Vengeance/Topoliceplaza-mv.jpg" imageanchor="1" ><img border="0" src="https://lemicdk.github.io/filminglocs/images/Die_Hard_With_a_Vengeance/Topoliceplaza-mv.jpg" /></a>
+<a href="https://lemicdk.github.io/filminglocs/images/Die_Hard_With_a_Vengeance/Topoliceplaza-ge.jpg" imageanchor="1"><img border="0" src="https://lemicdk.github.io/filminglocs/images/Die_Hard_With_a_Vengeance/Topoliceplaza-ge.jpg" /></a>
+<br />
+<h3>"Ringing phone" (Amstederdam ave. and W72nd St)</h3>
+<a href="https://lemicdk.github.io/filminglocs/images/Die_Hard_With_a_Vengeance/Ringingphone-mv.jpg" imageanchor="1" ><img border="0" src="https://lemicdk.github.io/filminglocs/images/Die_Hard_With_a_Vengeance/Ringingphone-mv.jpg" /></a>
+<a href="https://lemicdk.github.io/filminglocs/images/Die_Hard_With_a_Vengeance/Ringingphone-ge.jpg" imageanchor="1"><img border="0" src="https://lemicdk.github.io/filminglocs/images/Die_Hard_With_a_Vengeance/Ringingphone-ge.jpg" /></a>
+<br />
+<h3>Drive in park (Central park at W96th)</h3>
+<a href="https://lemicdk.github.io/filminglocs/images/Die_Hard_With_a_Vengeance/Enterpark-mv.jpg" imageanchor="1" ><img border="0" src="https://lemicdk.github.io/filminglocs/images/Die_Hard_With_a_Vengeance/Enterpark-mv.jpg" /></a>
+<a href="https://lemicdk.github.io/filminglocs/images/Die_Hard_With_a_Vengeance/Enterpark-ge.jpg" imageanchor="1"><img border="0" src="https://lemicdk.github.io/filminglocs/images/Die_Hard_With_a_Vengeance/Enterpark-ge.jpg" /></a>
+<h3>Park exit (Central Park S and 6th Ave.)</h3>
+<a href="https://lemicdk.github.io/filminglocs/images/Die_Hard_With_a_Vengeance/Parkexit-mv.jpg" imageanchor="1" ><img border="0" src="https://lemicdk.github.io/filminglocs/images/Die_Hard_With_a_Vengeance/Parkexit-mv.jpg" /></a>
+<a href="https://lemicdk.github.io/filminglocs/images/Die_Hard_With_a_Vengeance/Parkexit-ge.jpg" imageanchor="1"><img border="0" src="https://lemicdk.github.io/filminglocs/images/Die_Hard_With_a_Vengeance/Parkexit-ge.jpg" /></a>
+<br />
+<h3>Taxi at Columbus Circle</h3>
+<a href="https://lemicdk.github.io/filminglocs/images/Die_Hard_With_a_Vengeance/Taxiatcolumbuscircle-mv.jpg" imageanchor="1" ><img border="0" src="https://lemicdk.github.io/filminglocs/images/Die_Hard_With_a_Vengeance/Taxiatcolumbuscircle-mv.jpg" /></a>
+<a href="https://lemicdk.github.io/filminglocs/images/Die_Hard_With_a_Vengeance/Taxiatcolumbussquare-ge.jpg" imageanchor="1"><img border="0" src="https://lemicdk.github.io/filminglocs/images/Die_Hard_With_a_Vengeance/Taxiatcolumbussquare-ge.jpg" /></a>
+<h3>Catching subway (Broadway and E 8th St.)</h3>
+<a href="https://lemicdk.github.io/filminglocs/images/Die_Hard_With_a_Vengeance/Taxiexit-mv.jpg" imageanchor="1" ><img border="0" src="https://lemicdk.github.io/filminglocs/images/Die_Hard_With_a_Vengeance/Taxiexit-mv.jpg" /></a>
+<a href="https://lemicdk.github.io/filminglocs/images/Die_Hard_With_a_Vengeance/Taxiexit-ge.jpg" imageanchor="1"><img border="0" src="https://lemicdk.github.io/filminglocs/images/Die_Hard_With_a_Vengeance/Taxiexit-ge.jpg" /></a>
+<br />
+<h3>Taxi near miss (Maiden Ln and Nassau St.)</h3>
+<a href="https://lemicdk.github.io/filminglocs/images/Die_Hard_With_a_Vengeance/Taxinearmiss-mv.jpg" imageanchor="1" ><img border="0" src="https://lemicdk.github.io/filminglocs/images/Die_Hard_With_a_Vengeance/Taxinearmiss-mv.jpg" /></a>
+<a href="https://lemicdk.github.io/filminglocs/images/Die_Hard_With_a_Vengeance/Taxinearmiss-ge.jpg" imageanchor="1"><img border="0" src="https://lemicdk.github.io/filminglocs/images/Die_Hard_With_a_Vengeance/Taxinearmiss-ge.jpg" /></a>
+<h3>Exiting taxi (Liberty st. and William St.)</h3>
+<a href="https://lemicdk.github.io/filminglocs/images/Die_Hard_With_a_Vengeance/Taxiarrivalatwallstreetstation-mv.jpg" imageanchor="1" ><img border="0" src="https://lemicdk.github.io/filminglocs/images/Die_Hard_With_a_Vengeance/Taxiarrivalatwallstreetstation-mv.jpg" /></a>
+<a href="https://lemicdk.github.io/filminglocs/images/Die_Hard_With_a_Vengeance/Taxiarrivalatwallstreetstation-ge.jpg" imageanchor="1"><img border="0" src="https://lemicdk.github.io/filminglocs/images/Die_Hard_With_a_Vengeance/Taxiarrivalatwallstreetstation-ge.jpg" /></a>
+<br />
+<h3>Plan start (Maiden Ln and William St.)</h3>
+<a href="https://lemicdk.github.io/filminglocs/images/Die_Hard_With_a_Vengeance/Planstart-1.jpg" imageanchor="1" ><img border="0" src="https://lemicdk.github.io/filminglocs/images/Die_Hard_With_a_Vengeance/Planstart-1.jpg" /></a>
+<br />
+<h3>Police Bus (Hamilton Ave. and Columbia St.)</h3>
+<a href="https://lemicdk.github.io/filminglocs/images/Die_Hard_With_a_Vengeance/Policebus-mv.jpg" imageanchor="1" ><img border="0" src="https://lemicdk.github.io/filminglocs/images/Die_Hard_With_a_Vengeance/Policebus-mv.jpg" /></a>
+<a href="https://lemicdk.github.io/filminglocs/images/Die_Hard_With_a_Vengeance/Policebus-ge-2.jpg" imageanchor="1"><img border="0" src="https://lemicdk.github.io/filminglocs/images/Die_Hard_With_a_Vengeance/Policebus-ge-2.jpg" /></a>
+<br />
+<h3>Running to park (Bleecker st. Laguardia Pl)</h3>
+<a href="https://lemicdk.github.io/filminglocs/images/Die_Hard_With_a_Vengeance/Runningtopark-mv.jpg" imageanchor="1" ><img border="0" src="https://lemicdk.github.io/filminglocs/images/Die_Hard_With_a_Vengeance/Runningtopark-mv.jpg" /></a>
+<a href="https://lemicdk.github.io/filminglocs/images/Die_Hard_With_a_Vengeance/Runningtopark-ge.jpg" imageanchor="1"><img border="0" src="https://lemicdk.github.io/filminglocs/images/Die_Hard_With_a_Vengeance/Runningtopark-ge.jpg" /></a>
+<br />
+<h3>Waterfountain (Avenue A and St. Marks pl.)</h3>
+<a href="https://lemicdk.github.io/filminglocs/images/Die_Hard_With_a_Vengeance/WaterfountainatTompkinssquarepark.jpg" imageanchor="1" ><img border="0" src="https://lemicdk.github.io/filminglocs/images/Die_Hard_With_a_Vengeance/WaterfountainatTompkinssquarepark.jpg" /></a>
+<br />
+<h3>Chasing trucks #1 (FDR Drive at Brooklyn Bridge)</h3>
+<a href="https://lemicdk.github.io/filminglocs/images/Die_Hard_With_a_Vengeance/Chasingtrucks1-mv.jpg" imageanchor="1" ><img border="0" src="https://lemicdk.github.io/filminglocs/images/Die_Hard_With_a_Vengeance/Chasingtrucks1-mv.jpg" /></a>
+<a href="https://lemicdk.github.io/filminglocs/images/Die_Hard_With_a_Vengeance/Chasingtrucks1-ge.jpg" imageanchor="1"><img border="0" src="https://lemicdk.github.io/filminglocs/images/Die_Hard_With_a_Vengeance/Chasingtrucks1-ge.jpg" /></a>
+<br />
+<a href="https://lemicdk.github.io/filminglocs/images/Die_Hard_With_a_Vengeance/Chasingtrucks2-mv-1.jpg" imageanchor="1" ><img border="0" src="https://lemicdk.github.io/filminglocs/images/Die_Hard_With_a_Vengeance/Chasingtrucks2-mv-1.jpg" /></a>
+<a href="https://lemicdk.github.io/filminglocs/images/Die_Hard_With_a_Vengeance/Chasingtrucks2-ge.jpg" imageanchor="1"><img border="0" src="https://lemicdk.github.io/filminglocs/images/Die_Hard_With_a_Vengeance/Chasingtrucks2-ge.jpg" /></a>
+<br />
+<h3>Chasing trucks #2 (Harlem river Drive at Third ave Bridge)</h3>
+<a href="https://lemicdk.github.io/filminglocs/images/Die_Hard_With_a_Vengeance/Chasingtrucks3-mv-1.jpg" imageanchor="1" ><img border="0" src="https://lemicdk.github.io/filminglocs/images/Die_Hard_With_a_Vengeance/Chasingtrucks3-mv-1.jpg" /></a>
+<a href="https://lemicdk.github.io/filminglocs/images/Die_Hard_With_a_Vengeance/Chasingtrucks3-ge.jpg" imageanchor="1"><img border="0" src="https://lemicdk.github.io/filminglocs/images/Die_Hard_With_a_Vengeance/Chasingtrucks3-ge.jpg" /></a>
+<br />
+<h3>Stopping truck (Atlantic Ave and Henry St.)</h3>
+<a href="https://lemicdk.github.io/filminglocs/images/Die_Hard_With_a_Vengeance/Stoppingtruck-mv.jpg" imageanchor="1" ><img border="0" src="https://lemicdk.github.io/filminglocs/images/Die_Hard_With_a_Vengeance/Stoppingtruck-mv.jpg" /></a>
+<a href="https://lemicdk.github.io/filminglocs/images/Die_Hard_With_a_Vengeance/Stoppingtruck-ge.jpg" imageanchor="1"><img border="0" src="https://lemicdk.github.io/filminglocs/images/Die_Hard_With_a_Vengeance/Stoppingtruck-ge.jpg" /></a>
+<br />
+<h3>Tunnel construction site (Fort Greene Pl. and Atlantic Ave.)</h3>
+<a href="https://lemicdk.github.io/filminglocs/images/Die_Hard_With_a_Vengeance/Tunnelconstructionsite.jpg" imageanchor="1" ><img border="0" src="https://lemicdk.github.io/filminglocs/images/Die_Hard_With_a_Vengeance/Tunnelconstructionsite.jpg" /></a>
+<br />
+<h3>Yankee stadium</h3>
+<a href="https://lemicdk.github.io/filminglocs/images/Die_Hard_With_a_Vengeance/Yankeestadium.jpg" imageanchor="1" ><img border="0" src="https://lemicdk.github.io/filminglocs/images/Die_Hard_With_a_Vengeance/Yankeestadium.jpg" /></a>
+<br />
+<h3>Geyser (Interstate 26 and Sheep Island Rd.)</h3>
+<a href="https://lemicdk.github.io/filminglocs/images/Die_Hard_With_a_Vengeance/Geyser-mv.jpg" imageanchor="1" ><img border="0" src="https://lemicdk.github.io/filminglocs/images/Die_Hard_With_a_Vengeance/Geyser-mv.jpg" /></a>
+<a href="https://lemicdk.github.io/filminglocs/images/Die_Hard_With_a_Vengeance/Geyser-ge.jpg" imageanchor="1"><img border="0" src="https://lemicdk.github.io/filminglocs/images/Die_Hard_With_a_Vengeance/Geyser-ge.jpg" /></a>
+<br />
+
+<h3>Carchase shootout scene (Taconic State Parkway)</h3>
+<a href="https://lemicdk.github.io/filminglocs/images/Die_Hard_With_a_Vengeance/Carshootout-mv.jpg" imageanchor="1" ><img border="0" src="https://lemicdk.github.io/filminglocs/images/Die_Hard_With_a_Vengeance/Carshootout-mv.jpg" /></a>
+<a href="https://lemicdk.github.io/filminglocs/images/Die_Hard_With_a_Vengeance/Carshootout-ge.jpg" imageanchor="1"><img border="0" src="https://lemicdk.github.io/filminglocs/images/Die_Hard_With_a_Vengeance/Carshootout-ge.jpg" /></a>
+<br />
+<h3>Bomb in "Chester A. Arthur Elementary School" (West 177 Street)</h3>
+<a href="https://lemicdk.github.io/filminglocs/images/Die_Hard_With_a_Vengeance/ChesterAArthurElementarySchool-mv.jpg" imageanchor="1" ><img border="0" src="https://lemicdk.github.io/filminglocs/images/Die_Hard_With_a_Vengeance/ChesterAArthurElementarySchool-mv.jpg" /></a>
+<a href="https://lemicdk.github.io/filminglocs/images/Die_Hard_With_a_Vengeance/ChesterAArthurElementarySchool-ge.jpg" imageanchor="1"><img border="0" src="https://lemicdk.github.io/filminglocs/images/Die_Hard_With_a_Vengeance/ChesterAArthurElementarySchool-ge.jpg" /></a>
+<br />
+<h3>Brigde jump (Old bridge at Drum Island)</h3>
+<a href="https://lemicdk.github.io/filminglocs/images/Die_Hard_With_a_Vengeance/Bridgejump-mv.jpg" imageanchor="1" ><img border="0" src="https://lemicdk.github.io/filminglocs/images/Die_Hard_With_a_Vengeance/Bridgejump-mv.jpg" /></a>
+<br />
+<h3>Final showdown (Assateague Dr & Conowingo Ave EB)</h3>
+<a href="https://lemicdk.github.io/filminglocs/images/Die_Hard_With_a_Vengeance/Finalshowdown-mv.jpg" imageanchor="1" ><img border="0" src="https://lemicdk.github.io/filminglocs/images/Die_Hard_With_a_Vengeance/Finalshowdown-mv.jpg" /></a>
+<a href="https://lemicdk.github.io/filminglocs/images/Die_Hard_With_a_Vengeance/Finalshowdown-ge.jpg" imageanchor="1"><img border="0" src="https://lemicdk.github.io/filminglocs/images/Die_Hard_With_a_Vengeance/Finalshowdown-ge.jpg" /></a>
+
+
+
+
+
+
+
+
+

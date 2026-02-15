@@ -1,0 +1,115 @@
+---
+layout: post
+title:    The Town
+date:     2013-01-06 19:13:00  +0100
+categories: filminglocs update
+---
+<style>
+img {height:250px;}
+h3 {padding-top: 10px}
+h2 {padding-top: 20px}
+.episode {padding-left: 20px}
+</style>
+<img src="https://upload.wikimedia.org/wikipedia/en/d/da/The_Town_Poster.jpg" style="height: 300px" /><br />
+Director: Ben Affleck<br/>
+Writers: Peter Craig,Ben Affleck,Aaron Stockard, Chuck Hogan<br/>
+Staring: Ben Affleck, Rebecca Hall and Jon Hamm <br/>
+Filming town: Boston, Massachusetts<br /><br />
+<a href="http://www.imdb.com/title/tt0840361/">IMDB</a><br/>
+<a href="http://en.wikipedia.org/wiki/The_Town_%282010_film%29">Wikipedia</a><br />
+<a href="https://gec-people-cultures-a-googleproductforums-com.googlegroups.com/attach/16dbcf1ec3bdf5a7/The%20Town%20-%20Filming%20locations.kmz?gda=EVPpCkYAAABJmGmrzF5mlg8EupCslLgKP2dFNtymHdEciA2w_a5pPJrGRU-ZgF0jk_6Rl68cCcJx40jamwa1UURqDcgHarKEE-Ea7GxYMt0t6nY0uV5FIQ&part=3">KML file for Google Earth with all locations</a>
+<br />
+<h3>First robbery</h3>
+<a href="https://lemicdk.github.io/filminglocs/images/The_Town/first_robbery_mv.jpg" imageanchor="1" ><img border="0" src="https://lemicdk.github.io/filminglocs/images/The_Town/first_robbery_mv.jpg" /></a>
+<a href="https://lemicdk.github.io/filminglocs/images/The_Town/first_robbery_ge.jpg" imageanchor="1"><img border="0" src="https://lemicdk.github.io/filminglocs/images/The_Town/first_robbery_ge.jpg" /></a>
+<br />
+<h3>Torched truck (Havard square)</h3>
+<a href="https://lemicdk.github.io/filminglocs/images/The_Town/torched_truck_mv.jpg" imageanchor="1" ><img border="0" src="https://lemicdk.github.io/filminglocs/images/The_Town/torched_truck_mv.jpg" /></a>
+<a href="https://lemicdk.github.io/filminglocs/images/The_Town/torched_truck_ge.jpg" imageanchor="1"><img border="0" src="https://lemicdk.github.io/filminglocs/images/The_Town/torched_truck_ge.jpg" /></a>
+<br />
+<h3>Beach dropoff (Head Island Causeway)</h3>
+<a href="https://lemicdk.github.io/filminglocs/images/The_Town/beach_mv.jpg" imageanchor="1" ><img border="0" src="https://lemicdk.github.io/filminglocs/images/The_Town/beach_mv.jpg" /></a>
+<a href="https://lemicdk.github.io/filminglocs/images/The_Town/beach.jpg" imageanchor="1"><img border="0" src="https://lemicdk.github.io/filminglocs/images/The_Town/beach.jpg" /></a>
+<br />
+<h3>Ice skating rink (Union St. and Washington St.)</h3>
+<a href="https://lemicdk.github.io/filminglocs/images/The_Town/skating_rink_mv.jpg" imageanchor="1" ><img border="0" src="https://lemicdk.github.io/filminglocs/images/The_Town/skating_rink_mv.jpg" /></a>
+<a href="https://lemicdk.github.io/filminglocs/images/The_Town/skating_rink_ge.jpg" imageanchor="1"><img border="0" src="https://lemicdk.github.io/filminglocs/images/The_Town/skating_rink_ge.jpg" /></a>
+<br />
+<h3>"Town Flowers" (Dorchester St. and Silver St.))</h3>
+<a href="https://lemicdk.github.io/filminglocs/images/The_Town/town_flowers_mv.jpg" imageanchor="1" ><img border="0" src="https://lemicdk.github.io/filminglocs/images/The_Town/town_flowers_mv.jpg" /></a>
+<a href="https://lemicdk.github.io/filminglocs/images/The_Town/town_flowers_ge.jpg" imageanchor="1"><img border="0" src="https://lemicdk.github.io/filminglocs/images/The_Town/town_flowers_ge.jpg" /></a>
+<br />
+<h3>Bar (Lynde St. and Union st.)</h3>
+<a href="https://lemicdk.github.io/filminglocs/images/The_Town/local_bar_mv.jpg" imageanchor="1" ><img border="0" src="https://lemicdk.github.io/filminglocs/images/The_Town/local_bar_mv.jpg" /></a>
+<a href="https://lemicdk.github.io/filminglocs/images/The_Town/local_bar_ge.jpg" imageanchor="1"><img border="0" src="https://lemicdk.github.io/filminglocs/images/The_Town/local_bar_ge.jpg" /></a>
+<br />
+<h3>Claire appartment (Tremont and Lexington)</h3>
+<a href="https://lemicdk.github.io/filminglocs/images/The_Town/claire_appartment_mv.jpg" imageanchor="1" ><img border="0" src="https://lemicdk.github.io/filminglocs/images/The_Town/claire_appartment_mv.jpg" /></a>
+<a href="https://lemicdk.github.io/filminglocs/images/The_Town/claire_appartment_ge.jpg" imageanchor="1"><img border="0" src="https://lemicdk.github.io/filminglocs/images/The_Town/claire_appartment_ge.jpg" /></a>
+<br />
+<a href="https://lemicdk.github.io/filminglocs/images/The_Town/to_londromat_mv.jpg" imageanchor="1" ><img border="0" src="https://lemicdk.github.io/filminglocs/images/The_Town/to_londromat_mv.jpg" /></a>
+<a href="https://lemicdk.github.io/filminglocs/images/The_Town/to_laundromat_ge.jpg" imageanchor="1"><img border="0" src="https://lemicdk.github.io/filminglocs/images/The_Town/to_laundromat_ge.jpg" /></a>
+<br />
+<h3>Momument laundromat (Bunker Hill St. and Monument St.)</h3>
+<a href="https://lemicdk.github.io/filminglocs/images/The_Town/monument_laundomat_mv.jpg" imageanchor="1" ><img border="0" src="https://lemicdk.github.io/filminglocs/images/The_Town/monument_laundomat_mv.jpg" /></a>
+<a href="https://lemicdk.github.io/filminglocs/images/The_Town/telephone_hack_ge.jpg" imageanchor="1"><img border="0" src="https://lemicdk.github.io/filminglocs/images/The_Town/telephone_hack_ge.jpg" /></a>
+<br />
+<h3>Telephone hack (Dunster St.)</h3>
+<a href="https://lemicdk.github.io/filminglocs/images/The_Town/telephone_hack_mv.jpg" imageanchor="1" ><img border="0" src="https://lemicdk.github.io/filminglocs/images/The_Town/telephone_hack_mv.jpg" /></a>
+<a href="https://lemicdk.github.io/filminglocs/images/The_Town/telephone_hack_ge.jpg" imageanchor="1"><img border="0" src="https://lemicdk.github.io/filminglocs/images/The_Town/telephone_hack_ge.jpg" /></a>
+<br />
+<h3>"hurt some people" (Monument St. and Wlford Way)</h3>
+<a href="https://lemicdk.github.io/filminglocs/images/The_Town/hurt_some_people_mv.jpg" imageanchor="1" ><img border="0" src="https://lemicdk.github.io/filminglocs/images/The_Town/hurt_some_people_mv.jpg" /></a>
+<a href="https://lemicdk.github.io/filminglocs/images/The_Town/hurt_some_people_ge.jpg" imageanchor="1"><img border="0" src="https://lemicdk.github.io/filminglocs/images/The_Town/hurt_some_people_ge.jpg" /></a>
+<br />
+<h3>Community garden (Terminal St.)</h3>
+<a href="https://lemicdk.github.io/filminglocs/images/The_Town/community_garden_mv.jpg" imageanchor="1" ><img border="0" src="https://lemicdk.github.io/filminglocs/images/The_Town/community_garden_mv.jpg" /></a>
+<a href="https://lemicdk.github.io/filminglocs/images/The_Town/community_garden_ge.jpg" imageanchor="1"><img border="0" src="https://lemicdk.github.io/filminglocs/images/The_Town/community_garden_ge.jpg" /></a>
+<br />
+<h3>Date (Winthrop St. and John F. Kennedy St.)</h3>
+<a href="https://lemicdk.github.io/filminglocs/images/The_Town/date_mv.jpg" imageanchor="1" ><img border="0" src="https://lemicdk.github.io/filminglocs/images/The_Town/date_mv.jpg" /></a>
+<a href="https://lemicdk.github.io/filminglocs/images/The_Town/date_ge.jpg" imageanchor="1"><img border="0" src="https://lemicdk.github.io/filminglocs/images/The_Town/date_ge.jpg" /></a>
+<br />
+<h3>Second robbery (Bartlett pl. and Salem St.)</h3>
+<a href="https://lemicdk.github.io/filminglocs/images/The_Town/second_robbery_mv.jpg" imageanchor="1" ><img border="0" src="https://lemicdk.github.io/filminglocs/images/The_Town/second_robbery_mv.jpg" /></a>
+<a href="https://lemicdk.github.io/filminglocs/images/The_Town/second_robbery_ge.jpg" imageanchor="1"><img border="0" src="https://lemicdk.github.io/filminglocs/images/The_Town/second_robbery_ge.jpg" /></a>
+<br />
+<h3>Car change (Foster St.)</h3>
+<a href="https://lemicdk.github.io/filminglocs/images/The_Town/car_change_mv.jpg" imageanchor="1" ><img border="0" src="https://lemicdk.github.io/filminglocs/images/The_Town/car_change_mv.jpg" /></a>
+<a href="https://lemicdk.github.io/filminglocs/images/The_Town/car_change_ge.jpg" imageanchor="1"><img border="0" src="https://lemicdk.github.io/filminglocs/images/The_Town/car_change_ge.jpg" /></a>
+<br />
+<h3>Police man stand off (Tufts St. and O Reilly Way</h3>
+<a href="https://lemicdk.github.io/filminglocs/images/The_Town/police_stand_off_mv.jpg" imageanchor="1" ><img border="0" src="https://lemicdk.github.io/filminglocs/images/The_Town/police_stand_off_mv.jpg" /></a>
+<a href="https://lemicdk.github.io/filminglocs/images/The_Town/police_stand_off_ge.jpg" imageanchor="1"><img border="0" src="https://lemicdk.github.io/filminglocs/images/The_Town/police_stand_off_ge.jpg" /></a>
+<br />
+<h3>Fight (Dunstable st.)</h3>
+<a href="https://lemicdk.github.io/filminglocs/images/The_Town/fight_mv.jpg" imageanchor="1" ><img border="0" src="https://lemicdk.github.io/filminglocs/images/The_Town/fight_mv.jpg" /></a>
+<a href="https://lemicdk.github.io/filminglocs/images/The_Town/fight_ge.jpg" imageanchor="1"><img border="0" src="https://lemicdk.github.io/filminglocs/images/The_Town/fight_ge.jpg" /></a>
+<br />
+<h3>Boston Sand and gravel</h3>
+<a href="https://lemicdk.github.io/filminglocs/images/The_Town/boston_sand_gravel.jpg" imageanchor="1" ><img border="0" src="https://lemicdk.github.io/filminglocs/images/The_Town/boston_sand_gravel.jpg" /></a>
+<br />
+<h3>Appartment (Van Ness St.)</h3>
+<a href="https://lemicdk.github.io/filminglocs/images/The_Town/appartment_mv.jpg" imageanchor="1" ><img border="0" src="https://lemicdk.github.io/filminglocs/images/The_Town/appartment_mv.jpg" /></a>
+<a href="https://lemicdk.github.io/filminglocs/images/The_Town/appartment_ge.jpg" imageanchor="1"><img border="0" src="https://lemicdk.github.io/filminglocs/images/The_Town/appartment_ge.jpg" /></a>
+<br />
+<h3>Car accident (Bartlett St and Sullivan St.)</h3>
+<a href="https://lemicdk.github.io/filminglocs/images/The_Town/car_accident_mv.jpg" imageanchor="1" ><img border="0" src="https://lemicdk.github.io/filminglocs/images/The_Town/car_accident_mv.jpg" /></a>
+<a href="https://lemicdk.github.io/filminglocs/images/The_Town/car_accident_ge.jpg" imageanchor="1"><img border="0" src="https://lemicdk.github.io/filminglocs/images/The_Town/car_accident_ge.jpg" /></a>
+<br />
+<h3>Heist showdown (Yawkey Way)</h3>
+<a href="https://lemicdk.github.io/filminglocs/images/The_Town/heist_showdown_mv.jpg" imageanchor="1" ><img border="0" src="https://lemicdk.github.io/filminglocs/images/The_Town/heist_showdown_mv.jpg" /></a>
+<a href="https://lemicdk.github.io/filminglocs/images/The_Town/heist_showdown_ge.jpg" imageanchor="1"><img border="0" src="https://lemicdk.github.io/filminglocs/images/The_Town/heist_showdown_ge.jpg" /></a>
+<br />
+<h3>Jem firefight (Boylston St. and Yawkey Way)</h3>
+<a href="https://lemicdk.github.io/filminglocs/images/The_Town/gem_shootout_mv.jpg" imageanchor="1" ><img border="0" src="https://lemicdk.github.io/filminglocs/images/The_Town/gem_shootout_mv.jpg" /></a>
+<a href="https://lemicdk.github.io/filminglocs/images/The_Town/gem_shootout_ge.jpg" imageanchor="1"><img border="0" src="https://lemicdk.github.io/filminglocs/images/The_Town/gem_shootout_ge.jpg" /></a>
+<br />
+<h3>Bus station (Woburn Anderson Transportation Center)</h3>
+<a href="https://lemicdk.github.io/filminglocs/images/The_Town/bus_station.jpg" imageanchor="1" ><img border="0" src="https://lemicdk.github.io/filminglocs/images/The_Town/bus_station.jpg" /></a>
+
+
+
+
+
+

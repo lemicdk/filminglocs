@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Down Cemetery Road - Season 1 - Episode 7 - Lights Go Out"
-date:   2026-02-10 22:30:12 +0100
+title:    Down Cemetery Road - Season 1 - Episode 7 - Lights Go Out
+date:     2025-12-03 21:07:00  +0100
 categories: filminglocs update
 ---
 <style>

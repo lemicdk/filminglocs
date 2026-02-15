@@ -1,0 +1,569 @@
+---
+layout: post
+title:    Rescue me - Season 1
+date:     2016-11-06 15:40:00  +0100
+categories: filminglocs update
+---
+<style>
+.locimg {height: 200px;}
+h3 {padding-top: 10px}
+h2 {padding-top: 20px}
+.episode {padding-left: 20px}
+.locpicbox {border: 1px solid; padding: 2px;}
+.locdescbox {border: 1px solid; border-top:0px; padding: 2px;}
+.missing {color:red;display:inline;}
+</style>
+<img src="https://www.thetvdb.com/banners/_cache/seasons/73741-1-2.jpg" style="height: 300px;"/><br />
+Creators: Denis Leary, Peter Tolan<br />
+Stars: Denis Leary, Michael Lombardi and Steven Pasquale<br />
+Filming town: New York, USA. Mostly Brooklyn and Manhattan<br /><br />
+<br /><br />
+<a href="https://www.imdb.com/title/tt0381798/">IMDB</a><br/>
+<a href="https://en.wikipedia.org/wiki/Rescue_Me_%28U.S._TV_series%29">Wikipedia</a><br />
+Episodes: <a href="#ep1">1</a>&nbsp<a href="#ep2">2</a>&nbsp<a href="#ep3">3</a>&nbsp<a href="#ep4">4</a>&nbsp<a href="#ep5">5</a>&nbsp<a href="#ep6">6</a>&nbsp<a href="#ep7">7</a>&nbsp<a href="#ep8">8</a>&nbsp<a href="#ep9">9</a>&nbsp<a href="#ep10">10</a>&nbsp<a href="#ep11">11</a>&nbsp<a href="#ep12">12</a>&nbsp<a href="#ep13">13</a>
+<br /><br />
+<br />
+<h3 id="ep1">Episode 1 - Guts</h3>
+<br />
+<div class="locpicbox">
+<a href="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep1-New_recruits_zpspribpnrj.jpg" imageanchor="1" ><img class="locimg" border="0" src="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep1-New_recruits_zpspribpnrj.jpg" /></a> <a href="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep1-New_recruits_ge_zpsyz3fcstz.jpgimageanchor="1" ><img class="locimg" border="0" src="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep1-New_recruits_ge_zpsyz3fcstz.jpg" /></a>
+</div>
+<div class="locdescbox">
+Scene:    Tommy welcoming new recuits<br />
+Location: Brooklyn Navy Yard, Railroad ave. Brooklyn<br />
+</div>
+<br />
+<div class="locpicbox">
+<a href="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep1-FireHouse_zps61m6hkem.jpg" imageanchor="1" ><img class="locimg" border="0" src="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep1-FireHouse_zps61m6hkem.jpg" /></a> <a href="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep1-FireHouse-ge_zps2gtvhman.jpg" imageanchor="1" ><img class="locimg" border="0" src="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep1-FireHouse-ge_zps2gtvhman.jpg" /></a>
+</div>
+<div class="locdescbox">
+Scene:    Firehouse<br />
+Location: 242 E 111th St, New York, NY 10029, USA<br />
+</div>
+<br />
+<div class="locpicbox">
+<a href="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep1-GoingToFire_zpsvn1jzxsc.jpg" imageanchor="1" ><img class="locimg" border="0" src="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep1-GoingToFire_zpsvn1jzxsc.jpg" /></a> <a href="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep1-GoingToFire-ge_zpsuecqtatf.jpg" imageanchor="1" ><img class="locimg" border="0" src="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep1-GoingToFire-ge_zpsuecqtatf.jpg" /></a>
+</div>
+<div class="locdescbox">
+Scene:    Going to emergency<br />
+Location: E 105 St. and 3rd Ave<br />
+</div>
+<br />
+<div class="locpicbox">
+<a href="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep1-Smell_zpslaln10ze.jpg" imageanchor="1" ><img class="locimg" border="0" src="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep1-Smell_zpslaln10ze.jpg" /></a> <a href="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep1-Smell-ge_zpskpdxk5t8.jpg" imageanchor="1" ><img class="locimg" border="0" src="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep1-Smell-ge_zpskpdxk5t8.jpg" /></a>
+</div>
+<div class="locdescbox">
+Scene:    Bad smell<br />
+Location: Ave. D and E 4th St.<br />
+</div>
+<br />
+<div class="locpicbox">
+<a href="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep1-JanetHouse_zpsjvrlao2j.jpg" imageanchor="1" ><img class="locimg" border="0" src="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep1-JanetHouse_zpsjvrlao2j.jpg" /></a> <a href="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep1-JanetHouse-ge_zpsszpbkrgr.jpg" imageanchor="1" ><img class="locimg" border="0" src="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep1-JanetHouse-ge_zpsszpbkrgr.jpg" /></a>
+</div>
+<div class="locdescbox">
+Scene:    Janets house<br />
+Location: 448 Beach 144th St , Neponsit, Queens<br />
+</div>
+<br />
+<div class="locpicbox">
+<a href="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep1-Date_zpsmqsgjupx.jpg" imageanchor="1" ><img class="locimg" border="0" src="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep1-Date_zpsmqsgjupx.jpg" /></a> <a href="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep1-Date-ge_zpsvn8nnsi3.jpg" imageanchor="1" ><img class="locimg" border="0" src="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep1-Date-ge_zpsvn8nnsi3.jpg" /></a>
+</div>
+<div class="locdescbox">
+Scene:    Tommy on date<br />
+Location: 420 Bar & Lounge, 420 Amsterdam Ave, New York, NY 10024, USA<br />
+</div>
+<br />
+<div class="locpicbox">
+<a href="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep1-Fire_zpsqrianfsw.jpg" imageanchor="1" ><img class="locimg" border="0" src="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep1-Fire_zpsqrianfsw.jpg" /></a>
+</div>
+<div class="locdescbox">
+Scene:    Fire<br />
+Location: <span class="missing">Missing</span>
+</div>
+<br />
+<div class="locpicbox">
+<a href="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep1-Beach_zpsiushrter.jpg" imageanchor="1" ><img class="locimg" border="0" src="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep1-Beach_zpsiushrter.jpg" /></a> 
+</div>
+<div class="locdescbox">
+Scene:    Johnny and ghosts at the beach<br />
+Location: Hard to tell but most likely Rockaway Beach<br />
+</div>
+<br />
+<h3 id="ep2">Episode 2 - Gay</h3>
+<br />
+<div class="locpicbox">
+<a href="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep2-TommyHouse_zpszkc82wwb.jpg" imageanchor="1" ><img class="locimg" border="0" src="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep2-TommyHouse_zpszkc82wwb.jpg" /></a> <a href="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep2-TommyHouse_ge_zpsgawf1gwj.jpg" imageanchor="1" ><img class="locimg" border="0" src="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep2-TommyHouse_ge_zpsgawf1gwj.jpg" /></a>
+</div>
+<div class="locdescbox">
+Scene:    Tommys house on fire<br />
+Location: 445 Beach 144th St , Neponsit, Queens<br />
+</div>
+<br />
+<div class="locpicbox">
+<a href="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep2-CarFire_zpsuuhkhbft.jpg" imageanchor="1" ><img class="locimg" border="0" src="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep2-CarFire_zpsuuhkhbft.jpg" /></a>  <a href="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep2-CarFire-ge_zpsrmkg2gai.jpg
+" imageanchor="1" ><img class="locimg" border="0" src="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep2-CarFire-ge_zpsrmkg2gai.jpg
+" /></a> 
+</div>
+<div class="locdescbox">
+Scene:    Car fire at underpass<br />
+Location: 135th St Hudson River Greenway, New York, NY 10031
+</div>
+<br />
+<div class="locpicbox">
+<a href="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep2-SheliaHouse_zpsmzqw3fmw.jpg" imageanchor="1" ><img class="locimg" border="0" src="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep2-SheliaHouse_zpsmzqw3fmw.jpg" /></a> <a href="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep2-SheliaHouse_ge.jpg" imageanchor="1" ><img class="locimg" border="0" src="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep2-SheliaHouse_ge.jpg" /></a> 
+</div>
+<div class="locdescbox">
+Scene:    Shelias house<br />
+Location: 413 Beach 143th St , Neponsit, Queens
+</div>
+<br />
+<div class="locpicbox">
+<a href="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep2-ToFire_zpsbziqjdxc.jpg" imageanchor="1" ><img class="locimg" border="0" src="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep2-ToFire_zpsbziqjdxc.jpg" /></a> <a href="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep2-ToFire-ge_zps10baw6xm.jpg" imageanchor="1" ><img class="locimg" border="0" src="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep2-ToFire-ge_zps10baw6xm.jpg" /></a>
+</div>
+<div class="locdescbox">
+Scene:    To fire<br />
+Location: St Nicholas Av and W 137 St, New York, NY 10030
+</div>
+<br />
+<div class="locpicbox">
+<a href="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep2-Fire_zpssqjmrykj.jpg" imageanchor="1" ><img class="locimg" border="0" src="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep2-Fire_zpssqjmrykj.jpg" /></a> <a href="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep2-Fire-ge.png" imageanchor="1" ><img class="locimg" border="0" src="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep2-Fire-ge.png" /></a> 
+</div>
+<div class="locdescbox">
+Scene:    Fire<br />
+Location: 72 W 127th St, New York, NY 10027
+</div>
+<br />
+<h3 id="ep3">Episode 3 - Kansas</h3>
+<br />
+<div class="locpicbox">
+<a href="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep3-Fire_zpsppiteygo.jpg" imageanchor="1" ><img class="locimg" border="0" src="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep3-Fire_zpsppiteygo.jpg" /></a> <a href="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep3-Fire-ge_zps8lloqlkd.jpg" imageanchor="1" ><img class="locimg" border="0" src="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep3-Fire-ge_zps8lloqlkd.jpg" /></a>
+</div>
+<div class="locdescbox">
+Scene:    Fire in building<br />
+Location: 135th St Hudson River Greenway, New York, NY 10031<br />
+</div>
+<br />
+<div class="locpicbox">
+<a href="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep3-Bar_zpsjknpvmoy.jpg" imageanchor="1" ><img class="locimg" border="0" src="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep3-Bar_zpsjknpvmoy.jpg" /></a> <a href="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep3-Bar-ge_zpsuhsjagiu.jpg" imageanchor="1" ><img class="locimg" border="0" src="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep3-Bar-ge_zpsuhsjagiu.jpg" /></a>
+</div>
+<div class="locdescbox">
+Scene:    Chief visiting bar<br />
+Location: 7B - 108 Avenue B, New York, NY 10009<br />
+</div>
+<br />
+<h3 id="ep4">Episode 4 - DNA</h3>
+<br />
+<div class="locpicbox">
+<a href="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep4_-_MikeAppartment_zps4fcmtt9i.jpg" imageanchor="1" ><img class="locimg" border="0" src="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep4_-_MikeAppartment_zps4fcmtt9i.jpg" /></a> <a href="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep4_-_MikeAppartment-ge.png" imageanchor="1" ><img class="locimg" border="0" src="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep4_-_MikeAppartment-ge.png" /></a> 
+</div>
+<div class="locdescbox">
+Scene:    Mikes appartment<br />
+Location: 683 Academy St,New York, NY 10034, USA
+</div>
+<br />
+<div class="locpicbox">
+<a href="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep4_20-_20CarCrash_zpssdyp2hcv.jpg" imageanchor="1" ><img class="locimg" border="0" src="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep4_20-_20CarCrash_zpssdyp2hcv.jpg" /></a>
+</div>
+<div class="locdescbox">
+Scene:    Car crash<br />
+Location: <span class="missing">Missing (Most likely Centralpark)</span>
+</div>
+<br />
+<div class="locpicbox">
+<a href="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep4%20-%20EmergencyRoom_zps9dcm1ga6.jpg" imageanchor="1" ><img class="locimg" border="0" src="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep4%20-%20EmergencyRoom_zps9dcm1ga6.jpg" /></a>
+</div>
+<div class="locdescbox">
+Scene:    Emergencyroom<br />
+Location: <span class="missing">Missing</span>
+</div>
+<br />
+<h3 id="ep5">Episode 5 - Orphans</h3>
+<br />
+<div class="locpicbox">
+<a href="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep5-JohnnyPhone_zpsmxtqrdsl.jpg" imageanchor="1" ><img class="locimg" border="0" src="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep5-JohnnyPhone_zpsmxtqrdsl.jpg" /></a> <a href="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep5-JohnnyPhone-ge_zpsjkup7vbv.jpg" imageanchor="1" ><img class="locimg" border="0" src="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep5-JohnnyPhone-ge_zpsjkup7vbv.jpg" /></a>
+</div>
+<div class="locdescbox">
+Scene:    Johnny on phone<br />
+Location: 150 E 3rd St, New York City, New York, USA
+</div>
+<br />
+<div class="locpicbox">
+<a href="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep5-BostonFirehouse_zps8yefizql.jpg" imageanchor="1" ><img class="locimg" border="0" src="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep5-BostonFirehouse_zps8yefizql.jpg" /></a> <a href="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep5-Firehouse-ge_zpspjvjtrhl.jpg" imageanchor="1" ><img class="locimg" border="0" src="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep5-Firehouse-ge_zpspjvjtrhl.jpg" /></a>
+</div>
+<div class="locdescbox">
+Scene:    Chiefs sons firehouse in Boston<br />
+Location: Engine Company 28 and Ladder company 11, 222 E. 2nd St
+</div>
+<br />
+<div class="locpicbox">
+<a href="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep5-ChildServices_zpsvdseeikt.jpg" imageanchor="1" ><img class="locimg" border="0" src="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep5-ChildServices_zpsvdseeikt.jpg" /></a> <a href="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep5-ChildServices-ge.jpg" imageanchor="1" ><img class="locimg" border="0" src="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep5-ChildServices-ge.jpg" /></a>
+</div>
+<div class="locdescbox">
+Scene:    Franco leaving Childservices<br />
+Location:  329 W 51st St, New York City, New York
+</div>
+<br />
+<div class="locpicbox">
+<a href="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep5-GasExplosion_zps8wzrjipm.jpg" imageanchor="1" ><img class="locimg" border="0" src="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep5-GasExplosion_zps8wzrjipm.jpg" /></a> <a href="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep5-GasExplosion-ge_zpsdfs2eber.jpg" imageanchor="1" ><img class="locimg" border="0" src="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep5-GasExplosion-ge_zpsdfs2eber.jpg" /></a>
+</div>
+<div class="locdescbox">
+Scene:    Gasexplosion<br />
+Location: 604 W 160th st.
+</div>
+<br />
+<div class="locpicbox">
+<a href="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep5-Church_zps0veu0aqp.jpg" imageanchor="1" ><img class="locimg" border="0" src="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep5-Church_zps0veu0aqp.jpg" /></a>  <a href="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep13-Church-ge_zpsikqenjlj.jpg" imageanchor="1" ><img class="locimg" border="0" src="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep13-Church-ge_zpsikqenjlj.jpg" /></a>
+</div>
+<div class="locdescbox">
+Scene:    Tommy leaving church<br />
+Location: Most Holy Redeemer Church, 173 E 3rd St,New York, NY 10009
+</div>
+<br />
+<div class="locpicbox">
+<a href="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep5-TeddyHouse_zps1in77vbl.jpg" imageanchor="1" ><img class="locimg" border="0" src="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep5-TeddyHouse_zps1in77vbl.jpg" /></a> <a href="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep5-TeddyHouse-ge.jpg" imageanchor="1" ><img class="locimg" border="0" src="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep5-TeddyHouse-ge.jpg" /></a>
+</div>
+<div class="locdescbox">
+Scene:    Uncle Teddys house<br />
+Location: 434 Beach 143th St , Neponsit, Queens<br />
+</div>
+<br />
+<div class="locpicbox">
+<a href="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep5-Pub_zpsxt1r8sqt.jpg" imageanchor="1" ><img class="locimg" border="0" src="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep5-Pub_zpsxt1r8sqt.jpg" /></a> <a href="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep5-Pub-ge_zpszrg6xsyh.jpg" imageanchor="1" ><img class="locimg" border="0" src="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep5-Pub-ge_zpszrg6xsyh.jpg" /></a>
+</div>
+<div class="locdescbox">
+Scene:    Tommy getting beaten up outside pub<br />
+Location: Tyrone House, 72 Main St Yonkers, NY 10701 USA 
+</div>
+<br />
+<h3 id="ep6">Episode 6 - Revenge</h3>
+<br />
+<div class="locpicbox">
+<a href="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep6-Fire_zpsw04xl0zi.jpg" imageanchor="1" ><img class="locimg" border="0" src="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep6-Fire_zpsw04xl0zi.jpg" /></a> <a href="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep6-Fire-ge_zps0bzochji.jpg" imageanchor="1" ><img class="locimg" border="0" src="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep6-Fire-ge_zps0bzochji.jpg" /></a>
+</div>
+<div class="locdescbox">
+Scene:    Fire in appartmentbuilding<br />
+Location: 100 W 121st
+</div>
+<br />
+<div class="locpicbox">
+<a href="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep6-PoliceStation_zpsojq4jicm.jpg" imageanchor="1" ><img class="locimg" border="0" src="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep6-PoliceStation_zpsojq4jicm.jpg" /></a> <a href="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep6-PoliceStation-ge_zpsxmbpzyyi.jpg" imageanchor="1" ><img class="locimg" border="0" src="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep6-PoliceStation-ge_zpsxmbpzyyi.jpg" /></a>
+</div>
+<div class="locdescbox">
+Scene:    Johnny and Janet metting outside policestation<br />
+Location: VOICE Charter School of NY, 36-24 12th St, New York, NY 11106
+</div>
+<br />
+<div class="locpicbox">
+<a href="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep6-FosterFamily_zpsvwlhaxls.jpg" imageanchor="1" ><img class="locimg" border="0" src="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep6-FosterFamily_zpsvwlhaxls.jpg" /></a>
+</div>
+<div class="locdescbox">
+Scene:    Franco getting his daugther back from fosterfamily<br />
+Location: <span class="missing">Missing</span>
+</div>
+<br />
+<div class="locpicbox">
+<a href="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep6-FrancoMotherHouse_zpsjeq7ywl4.jpg" imageanchor="1" ><img class="locimg" border="0" src="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep6-FrancoMotherHouse_zpsjeq7ywl4.jpg" /></a> <a href="
+https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep6-FrancoMotherHouse-ge.jpg" imageanchor="1" ><img class="locimg" border="0" src="
+https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep6-FrancoMotherHouse-ge.jpg" /></a>
+</div>
+<div class="locdescbox">
+Scene:    Francos mothers house<br />
+Location: 452 Beach 143th St , Neponsit, Queens<br />
+</div>
+<br />
+<h3 id="ep7">Episode 7 - Butterfly</h3>
+<br />
+<div class="locpicbox">
+<a href="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep7-ToFire_zpsygr7tvkg.jpg" imageanchor="1" ><img class="locimg" border="0" src="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep7-ToFire_zpsygr7tvkg.jpg" /></a> <a href="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep7-ToFire-ge_zpsofu3cubn.jpg" imageanchor="1" ><img class="locimg" border="0" src="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep7-ToFire-ge_zpsofu3cubn.jpg" /></a>
+</div>
+<div class="locdescbox">
+Scene:    Driving to fire<br />
+Location: St Nicholas Av and 133 St
+</div>
+<br />
+<div class="locpicbox">
+<a href="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep7-Fire_zpsjy4cmf1t.jpg" imageanchor="1" ><img class="locimg" border="0" src="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep7-Fire_zpsjy4cmf1t.jpg" /></a> <a href="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep7-Fire-ge_zps4az9krqn.jpg" imageanchor="1" ><img class="locimg" border="0" src="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep7-Fire-ge_zps4az9krqn.jpg" /></a>
+</div>
+<div class="locdescbox">
+Scene:    Scene of fire<br />
+Location: Edgecomp Ave and 142th New York, NY 10030
+</div>
+<br />
+<div class="locpicbox">
+<a href="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep7-JohhnyPhone_zpstf1z2c22.jpg" imageanchor="1" ><img class="locimg" border="0" src="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep7-JohhnyPhone_zpstf1z2c22.jpg" /></a> <a href="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep7-JohhnyPhone-ge_zpskejihitd.jpg" imageanchor="1" ><img class="locimg" border="0" src="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep7-JohhnyPhone-ge_zpskejihitd.jpg" /></a>
+</div>
+<div class="locdescbox">
+Scene:    Johnny on phone while washing his car<br />
+Location: 25 Beach 143rd st., Neponsit, Queens<br />
+</div>
+<br />
+<h3 id="ep8">Episode 8 - Inches</h3>
+<br />
+<div class="locpicbox">
+<a href="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep8-RoadRage_zpsnksvctdx.jpg" imageanchor="1" ><img class="locimg" border="0" src="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep8-RoadRage_zpsnksvctdx.jpg" /></a> <a href="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep8-RoadRage-ge_zpsrggp7iel.jpg" imageanchor="1" ><img class="locimg" border="0" src="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep8-RoadRage-ge_zpsrggp7iel.jpg" /></a>
+</div>
+<div class="locdescbox">
+Scene:    Tommy hit by roadrage<br />
+Location: 40th ave and 10th street, Long Island City, NY 11101
+</div>
+<br />
+<div class="locpicbox">
+<a href="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep8-Driving_zpsv0sflhpv.jpg" imageanchor="1" ><img class="locimg" border="0" src="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep8-Driving_zpsv0sflhpv.jpg" /></a> <a href="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep8-Driving-ge_zpsb537j0px.jpg" imageanchor="1" ><img class="locimg" border="0" src="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep8-Driving-ge_zpsb537j0px.jpg" /></a>
+</div>
+<div class="locdescbox">
+Scene:    Tommy and Shelia driving<br />
+Location: 223-25 Beach 116th St, Far Rockaway, NY 11694
+</div>
+<br />
+<div class="locpicbox">
+<a href="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep8-BurningBuilding_zpsrn8zs0ki.jpg" imageanchor="1" ><img class="locimg" border="0" src="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep8-BurningBuilding_zpsrn8zs0ki.jpg" /></a>
+</div>
+<div class="locdescbox">
+Scene:    Burning building<br />
+Location: <span class="missing">Missing</span>
+</div>
+<br />
+<h3 id="ep9">Episode 9 - Alarm</h3>
+<br />
+<div class="locpicbox">
+<a href="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep9-CrackHouse_zpsjuo32gqe.jpg" imageanchor="1" ><img class="locimg" border="0" src="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep9-CrackHouse_zpsjuo32gqe.jpg" /></a> <a href="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep9-Crackhouse-ge_zpsidcwq2xj.jpg" imageanchor="1" ><img class="locimg" border="0" src="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep9-Crackhouse-ge_zpsidcwq2xj.jpg" /></a>
+</div>
+<div class="locdescbox">
+Scene:    Tommy talking to girls outside crackhouse<br />
+Location: 206 E 4th St, New York, NY 10009, USA
+</div>
+<br />
+<div class="locpicbox">
+<a href="hhttps://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep9-HealthClinic_zpspc8f1dci.jpg" imageanchor="1" ><img class="locimg" border="0" src="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep9-HealthClinic_zpspc8f1dci.jpg" /></a> <a href="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep9-HealthClinic-ge_zps0ojqg1lh.jpg" imageanchor="1" ><img class="locimg" border="0" src="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep9-HealthClinic-ge_zps0ojqg1lh.jpg" /></a>
+</div>
+<div class="locdescbox">
+Scene:    Janet going to Womans Health Services<br />
+Location: Ryan Health | NENA, 279 E 3rd St New York, NY 10009 USA
+</div>
+<br />
+<div class="locpicbox">
+<a href="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep9-Pawnshop_zpsmqm9jnt5.jpg" imageanchor="1" ><img class="locimg" border="0" src="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep9-Pawnshop_zpsmqm9jnt5.jpg" /></a> <a href="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep9-Pawnshop-ge_zps02ac0jdl.jpg" imageanchor="1" ><img class="locimg" border="0" src="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep9-Pawnshop-ge_zps02ac0jdl.jpg" /></a>
+</div>
+<div class="locdescbox">
+Scene:    The chief trying to pawn stolen ring<br />
+Location: 540 E 14th St, New York, NY 10009, USA
+</div>
+<br />
+<div class="locpicbox">
+<a href="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep9-MikeAppartment_zpsenemxdpw.jpg" imageanchor="1" ><img class="locimg" border="0" src="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep9-MikeAppartment_zpsenemxdpw.jpg" /></a>
+</div>
+<div class="locdescbox">
+Scene:    Mike kicked out of appartment<br />
+Location: 
+</div>
+<br />
+<h3 id="ep10">Episode 10 - Immortal</h3>
+<br />
+<div class="locpicbox">
+<a href="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep10-DareDevil_zpsorztzzzu.jpg" imageanchor="1" ><img class="locimg" border="0" src="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep10-DareDevil_zpsorztzzzu.jpg" /></a> <a href="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep10-DareDevil-ge.jpg" imageanchor="1" ><img class="locimg" border="0" src="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep10-DareDevil-ge.jpg" /></a>
+</div>
+<div class="locdescbox">
+Scene:    Tommy doing "some serious dare-devil shit" in traffic<br />
+Location: 141 St Nicholas Ave, New York, NY 10026, 
+</div>
+<br />
+<div class="locpicbox">
+<a href="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep10-Fire_zpshnsardmx.jpg" imageanchor="1" ><img class="locimg" border="0" src="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep10-Fire_zpshnsardmx.jpg" /></a> <a href="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep10-Fire-ge_zpsg7ibsx6t.jpg" imageanchor="1" ><img class="locimg" border="0" src="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep10-Fire-ge_zpsg7ibsx6t.jpg" /></a>
+</div>
+<div class="locdescbox">
+Scene:    Fire in appartmentbuilding<br />
+Location: 362 W 112th St, New York
+</div>
+<br />
+<div class="locpicbox">
+<a href="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep10-Lawyer_zpsvxeay60t.jpg" imageanchor="1" ><img class="locimg" border="0" src="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep10-Lawyer_zpsvxeay60t.jpg" /></a> <a href="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep10-Lawyer-ge_zpsbekrj1za.jpg" imageanchor="1" ><img class="locimg" border="0" src="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep10-Lawyer-ge_zpsbekrj1za.jpg" /></a>
+</div>
+<div class="locdescbox">
+Scene:    Tommys lawyer friend on the phone with Tommy<br />
+Location: 1 Central Park West New York, NY 10023 
+</div>
+<br />
+<div class="locpicbox">
+<a href="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep10-Treehuggers_zps5in2oz3j.jpg" imageanchor="1" ><img class="locimg" border="0" src="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep10-Treehuggers_zps5in2oz3j.jpg" /></a> <a href="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep10-Treehuggers-ge_zpsfud7t8ru.jpg" imageanchor="1" ><img class="locimg" border="0" src="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep10-Treehuggers-ge_zpsfud7t8ru.jpg" /></a>
+</div>
+<div class="locdescbox">
+Scene:    Couple stuck in tree<br />
+Location: Morningside Park - Park, Morningside Dr, New York, NY 10026
+</div>
+<br />
+<h3 id="ep11">Episode 11 - Mom</h3>
+<br />
+<div class="locpicbox">
+<a href="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep11-MikesMothersHouse_zpsmys8mfje.jpg" imageanchor="1" ><img class="locimg" border="0" src="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep11-MikesMothersHouse_zpsmys8mfje.jpg" /></a> <a href="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep11-MikesMothersHouse-ge_zpsocihezph.jpg" imageanchor="1" ><img class="locimg" border="0" src="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep11-MikesMothersHouse-ge_zpsocihezph.jpg" /></a>
+</div>
+<div class="locdescbox">
+Scene:    Mike being sent off to work by his mother<br />
+Location: 5252 Turner Place , Brooklyn, NY - 11218
+</div>
+<br />
+<div class="locpicbox">
+<a href="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep11-Fire_zpsh2hb1em9.jpg" imageanchor="1" ><img class="locimg" border="0" src="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep11-Fire_zpsh2hb1em9.jpg" /></a> <a href="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep11-Fire-ge_zpsgopdag7v.jpg" imageanchor="1" ><img class="locimg" border="0" src="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep11-Fire-ge_zpsgopdag7v.jpg" /></a>
+</div>
+<div class="locdescbox">
+Scene:    Fire in appartmentbuilding<br />
+Location: 3461 Broadway, New York
+</div>
+<br />
+<div class="locpicbox">
+<a href="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep11-MikeDate_zpsqavxhrvw.jpg" imageanchor="1" ><img class="locimg" border="0" src="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep11-MikeDate_zpsqavxhrvw.jpg" /></a> <a href="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep11-MikeDate-ge_zps1acujqqk.jpg" imageanchor="1" ><img class="locimg" border="0" src="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep11-MikeDate-ge_zps1acujqqk.jpg" /></a>
+</div>
+<div class="locdescbox">
+Scene:    Mike picking up date<br />
+Location: 14 Seaman Ave, New York, NY 10034
+</div>
+<br />
+<div class="locpicbox">
+<a href="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep11-LouHouse_zpsgdjlqbsu.jpg" imageanchor="1" ><img class="locimg" border="0" src="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep11-LouHouse_zpsgdjlqbsu.jpg" /></a> <a href="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep11-LouHouse-ge.jpg" imageanchor="1" ><img class="locimg" border="0" src="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep11-LouHouse-ge.jpg" /></a>
+</div>
+<div class="locdescbox">
+Scene:    Lou's house<br />
+Location: 196 Argyle Road, Brooklyn, NY 11218
+</div>
+<br />
+<div class="locpicbox">
+<a href="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep11-FuneralHome_zpshw76jmvr.jpg" imageanchor="1" ><img class="locimg" border="0" src="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep11-FuneralHome_zpshw76jmvr.jpg" /></a> <a href="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep11-FuneralHome-ge_zpszimnicf0.jpg" imageanchor="1" ><img class="locimg" border="0" src="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep11-FuneralHome-ge_zpszimnicf0.jpg" /></a>
+</div>
+<div class="locdescbox">
+Scene:    Tommy and Mickey getting into fight at funeral home<br />
+Location: Funeral palor Cusimano & Russo,  2005 W 6th St,Brooklyn, NY 11223
+</div>
+<br />
+<div class="locpicbox">
+<a href="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/ep11-Car_zpssk59utjx.jpg" imageanchor="1" ><img class="locimg" border="0" src="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/ep11-Car_zpssk59utjx.jpg" /></a> <a href="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/ep11-Car-ge_zpsvh8jjnel.jpg" imageanchor="1" ><img class="locimg" border="0" src="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/ep11-Car-ge_zpsvh8jjnel.jpg" /></a>
+</div>
+<div class="locdescbox">
+Scene:    Tommy on the phone<br />
+Location: 3459 Broadway New York, NY 10031
+</div>
+<br />
+<div class="locpicbox">
+<a href="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep11-Firehouse_zpsyq3crgdr.jpg" imageanchor="1" ><img class="locimg" border="0" src="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep11-Firehouse_zpsyq3crgdr.jpg" /></a> <a href="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep11-Firehouse-ge_zpsnpfit7qo.jpg" imageanchor="1" ><img class="locimg" border="0" src="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep11-Firehouse-ge_zpsnpfit7qo.jpg" /></a>
+</div>
+<div class="locdescbox">
+Scene:    Lou outside firehouse<br />
+Location: Firehouse FDNY Engine 95, Ladder 36 - 29 Vermilyea Ave New York, NY 10034
+</div>
+<br />
+<h3 id="ep12">Episode 12 - Leaving</h3>
+<br />
+<div class="locpicbox">
+<a href="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep12-GoingToFire_zpsrvhxl94v.jpg" imageanchor="1" ><img class="locimg" border="0" src="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep12-GoingToFire_zpsrvhxl94v.jpg" /></a> <a href="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep12-GoingToFire-ge_zps5ospx7jy.jpg" imageanchor="1" ><img class="locimg" border="0" src="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep12-GoingToFire-ge_zps5ospx7jy.jpg" /></a>
+</div>
+<div class="locdescbox">
+Scene:    Going to fire<br />
+Location: 15 Central Park West - 10023 - New York (Ny), United States 
+</div>
+<br />
+<div class="locpicbox">
+<a href="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep12-FallingBranch_zpshm1tfeur.jpg" imageanchor="1" ><img class="locimg" border="0" src="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep12-FallingBranch_zpshm1tfeur.jpg" /></a> <a href="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep12-Branch-ge.jpg" imageanchor="1" ><img class="locimg" border="0" src="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep12-Branch-ge.jpg" /></a>
+</div>
+<div class="locdescbox">
+Scene:    Guy hit by falling branch<br />
+Location: 251 Seaman Ave., New York, NY 10034, USA
+</div>
+<br />
+<div class="locpicbox">
+<a href="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep12-Pharmacy_zpswhw089jt.jpg" imageanchor="1" ><img class="locimg" border="0" src="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep12-Pharmacy_zpswhw089jt.jpg" /></a> <a href="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep12-Pharmacy-ge_zpsdzbmilei.jpg" imageanchor="1" ><img class="locimg" border="0" src="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep12-Pharmacy-ge_zpsdzbmilei.jpg" /></a>
+</div>
+<div class="locdescbox">
+Scene:    Tommy outside Pharmacy<br />
+Location: Ravensview Pharmacy Inc, 3449 21st St, Long Island City, NY 11106, USA
+</div>
+<br />
+<div class="locpicbox">
+<a href="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep12-Bar_zps8cvzrrxr.jpg" imageanchor="1" ><img class="locimg" border="0" src="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep12-Bar_zps8cvzrrxr.jpg" /></a> <a href="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep12-Bar-ge_zpsx7t75viz.jpg" imageanchor="1" ><img class="locimg" border="0" src="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep12-Bar-ge_zpsx7t75viz.jpg" /></a>
+</div>
+<div class="locdescbox">
+Scene:    Shawn hanging out with his friends in bar<br />
+Location: Pencil Factory - 142 Franklin St # 1,Brooklyn, NY 11222
+</div>
+<br />
+<div class="locpicbox">
+<a href="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep12-Bookies_zpsggzrb4xv.jpg" imageanchor="1" ><img class="locimg" border="0" src="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep12-Bookies_zpsggzrb4xv.jpg" /></a> <a href="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep12-Bookies-ge.jpg?updatedAt=1697283411708" imageanchor="1" ><img class="locimg" border="0" src="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep12-Bookies-ge.jpg?updatedAt=1697283411708" /></a> 
+</div>
+<div class="locdescbox">
+Scene:    The chief visiting his bookmaker<br />
+Location: 300 E 5th Street, Brooklyn, NY 11218<br />
+</div>
+<br />
+<div class="locpicbox">
+<a href="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep12-Fire_zpsxbctcsxg.jpg" imageanchor="1" ><img class="locimg" border="0" src="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep12-Fire_zpsxbctcsxg.jpg" /></a> <a href="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep12-Fire-ge_zpsjweyqbsv.jpg" imageanchor="1" ><img class="locimg" border="0" src="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep12-Fire-ge_zpsjweyqbsv.jpg" /></a>
+</div>
+<div class="locdescbox">
+Scene:    Fire in appartment building<br />
+Location: 680w 161st, New York, NY 10032
+</div>
+<br />
+<div class="locpicbox">
+<a href="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep12-Theater_zpsiq1v02fl.jpg" imageanchor="1" ><img class="locimg" border="0" src="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep12-Theater_zpsiq1v02fl.jpg" /></a> <a href="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep12-Theater-ge_zps8pvlmp8e.jpg" imageanchor="1" ><img class="locimg" border="0" src="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep12-Theater-ge_zps8pvlmp8e.jpg" /></a>
+</div>
+<div class="locdescbox">
+Scene:    The chief taking his wife to the theater<br />
+Location: Golden Theatre - 252 W 45th St, New York, NY 10036
+</div>
+<br />
+<div class="locpicbox">
+<a href="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep12-SheliasHouse_zps72vz0jv2.jpg" imageanchor="1" ><img class="locimg" border="0" src="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep12-SheliasHouse_zps72vz0jv2.jpg" /></a> <a href="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep12-SheliasHouse-ge.jpg" imageanchor="1" ><img class="locimg" border="0" src="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep12-SheliasHouse-ge.jpg" /></a> 
+</div>
+<div class="locdescbox">
+Scene:    Tommy visiting Shelia<br />
+Location: 173 Westminster Rd, Brooklyn, NY 11218
+</div>
+<br />
+<h3 id="ep12">Episode 13 - Sanctuary</h3>
+<br />
+<div class="locpicbox">
+<a href="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep12-Horsetrack_zpsxfneojlm.jpg" imageanchor="1" ><img class="locimg" border="0" src="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep12-Horsetrack_zpsxfneojlm.jpg" /></a> <a href="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep12-GoingToFire-ge_zps5ospx7jy.jpg" imageanchor="1" ><img class="locimg" border="0" src="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep12-GoingToFire-ge_zps5ospx7jy.jpg" /></a>
+</div>
+<div class="locdescbox">
+Scene:    Tommy, the chief, Teddy and Arlo at the tracks<br />
+Location: Belmont Park,2150 Hempstead Turnpike,Elmont, NY 11003
+</div>
+<div class="locpicbox">
+<a href="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep13-ObeseWoman_zpspaplszsw.jpg" imageanchor="1" ><img class="locimg" border="0" src="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep13-ObeseWoman_zpspaplszsw.jpg" /></a> <a href="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep13-ObeseWoman-ge_zpsnukkgokh.jpg" imageanchor="1" ><img class="locimg" border="0" src="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep13-ObeseWoman-ge_zpsnukkgokh.jpg" /></a>
+</div>
+<div class="locdescbox">
+Scene:    Obese woman found dead in her appartment<br />
+Location: 551 W 174th St, New York, NY 10033, USA
+</div>
+<br />
+<div class="locpicbox">
+<a href="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep13-Bar_zpsyu2c61zi.jpg" imageanchor="1" ><img class="locimg" border="0" src="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep13-Bar_zpsyu2c61zi.jpg" /></a> <a href="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep13-Bar-ge_zpsbhefly2w.jpg
+" imageanchor="1" ><img class="locimg" border="0" src="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep13-Bar-ge_zpsbhefly2w.jpg
+" /></a>
+</div>
+<div class="locdescbox">
+Scene:    The crew leaving bar<br />
+Location: 187 Columbia St, Brooklyn, NY 11231, 
+</div>
+<br />
+<div class="locpicbox">
+<a href="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep13-Grocery_zpsxbzbgqoh.jpg" imageanchor="1" ><img class="locimg" border="0" src="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep13-Grocery_zpsxbzbgqoh.jpg" /></a> <a href="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep13-Grocery-ge.png" imageanchor="1" ><img class="locimg" border="0" src="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep13-Grocery-ge.png" /></a>
+</div>
+<div class="locdescbox">
+Scene:    Franco and Mickey meet outside grocerystore<br />
+Location: Bueno East Mart, 36 Avenue A,New York, NY 10009,USA
+</div>
+<br />
+<div class="locpicbox">
+<a href="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep13-Fire_zpsvespbfto.jpg" imageanchor="1" ><img class="locimg" border="0" src="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep13-Fire_zpsvespbfto.jpg" /></a> <a href="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep13-Fire-ge.jpg" imageanchor="1" ><img class="locimg" border="0" src="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep13-Fire-ge.jpg" /></a>
+</div>
+<div class="locdescbox">
+Scene:    Fire<br />
+Location: 109 W 126th St, New York, NY 10027, USA
+</div>
+<br />
+<div class="locpicbox">
+<a href="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep13-Church_zpskceqiyvi.jpg" imageanchor="1" ><img class="locimg" border="0" src="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep13-Church_zpskceqiyvi.jpg" /></a> <a href="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep13-Church-ge_zpsikqenjlj.jpg" imageanchor="1" ><img class="locimg" border="0" src="https://lemicdk.github.io/filminglocs/images/Rescue_me/Season_1/Ep13-Church-ge_zpsikqenjlj.jpg" /></a>
+</div>
+<div class="locdescbox">
+Scene:    Tommy visisting Mickeys church<br />
+Location: Most Holy Redeemer Church, 173 E 3rd St,New York, NY 10009
+</div>
+<br />
+
